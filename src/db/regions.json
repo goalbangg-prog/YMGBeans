@@ -1,0 +1,134 @@
+[
+  {
+    "id": "africa",
+    "label": "아프리카",
+    "countries": [
+      {
+        "country": "ETHIOPIA",
+        "korean": "에티오피아",
+        "lat": 8,
+        "lon": 38.7
+      },
+      {
+        "country": "TANZANIA",
+        "korean": "탄자니아",
+        "lat": -3.35,
+        "lon": 37.34
+      },
+      {
+        "country": "RWANDA",
+        "korean": "르완다",
+        "lat": -2,
+        "lon": 29.7
+      },
+      {
+        "country": "UGANDA",
+        "korean": "우간다",
+        "lat": 0.34,
+        "lon": 32.58
+      },
+      {
+        "country": "KENYA",
+        "korean": "케냐",
+        "lat": -0.5,
+        "lon": 37.3
+      },
+      {
+        "country": "CAMEROON",
+        "korean": "카메룬",
+        "lat": 5.47,
+        "lon": 10.42
+      }
+    ]
+  },
+  {
+    "id": "latin",
+    "label": "중남미",
+    "countries": [
+      {
+        "country": "BRAZIL",
+        "korean": "브라질",
+        "lat": -18.95,
+        "lon": -47
+      },
+      {
+        "country": "GUATEMALA",
+        "korean": "과테말라",
+        "lat": 14.56,
+        "lon": -90.73
+      },
+      {
+        "country": "COSTA RICA",
+        "korean": "코스타리카",
+        "lat": 9.65,
+        "lon": -84.02
+      },
+      {
+        "country": "EL SALVADOR",
+        "korean": "엘살바도르",
+        "lat": 13.98,
+        "lon": -89.56
+      },
+      {
+        "country": "HONDURAS",
+        "korean": "온두라스",
+        "lat": 14.84,
+        "lon": -89.15
+      },
+      {
+        "country": "JAMAICA",
+        "korean": "자메이카",
+        "lat": 18.08,
+        "lon": -76.67
+      },
+      {
+        "country": "PANAMA",
+        "korean": "파나마",
+        "lat": 8.78,
+        "lon": -82.44
+      },
+      {
+        "country": "COLOMBIA",
+        "korean": "콜롬비아",
+        "lat": 2.54,
+        "lon": -75.53
+      }
+    ]
+  },
+  {
+    "id": "asia-oceania",
+    "label": "아시아 및 대양주",
+    "countries": [
+      {
+        "country": "PAPUA NEW GUINEA",
+        "korean": "파푸아뉴기니",
+        "lat": -6,
+        "lon": 145
+      },
+      {
+        "country": "INDONESIA",
+        "korean": "인도네시아",
+        "lat": 0.85,
+        "lon": 99.57
+      },
+      {
+        "country": "YEMEN",
+        "korean": "예멘",
+        "lat": 15.37,
+        "lon": 44.19
+      },
+      {
+        "country": "INDIA",
+        "korean": "인도",
+        "lat": 13.32,
+        "lon": 75.77
+      },
+      {
+        "country": "HAWAII",
+        "korean": "하와이",
+        "lat": 19.64,
+        "lon": -155.99
+      }
+    ]
+  }
+]

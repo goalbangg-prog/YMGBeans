@@ -1,0 +1,1610 @@
+[
+  {
+    "country": "ETHIOPIA",
+    "place": "예가체프 인근",
+    "lat": 6.16,
+    "lon": 38.2,
+    "title": "꽃과 차의 향을 따라",
+    "story": "예가체프는 작은 농가의 체리를 모아 가공하는 워싱스테이션으로 알려져 있습니다. 같은 산지에서도 워시드와 허니 가공의 차이를 비교해보세요.",
+    "name": "예가체프 G2 워시드",
+    "process": "Washed",
+    "notes": [
+      "자스민",
+      "카라멜",
+      "레몬"
+    ],
+    "url": "https://drwakefield.com/coffees/ethiopia-yirgacheffe-g2/",
+    "climate": {
+      "temperature": 18.9,
+      "humidity": 69.66,
+      "solar": 20.12,
+      "elevation": 1850.01,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=38.2&latitude=6.16&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 22.72,
+          "FEB": 23.93,
+          "MAR": 23.18,
+          "APR": 20.47,
+          "MAY": 19.8,
+          "JUN": 17.79,
+          "JUL": 15.76,
+          "AUG": 16.97,
+          "SEP": 18.47,
+          "OCT": 19.6,
+          "NOV": 21.03,
+          "DEC": 21.91,
+          "ANN": 20.12
+        },
+        "RH2M": {
+          "JAN": 49.14,
+          "FEB": 44.19,
+          "MAR": 53.26,
+          "APR": 74.89,
+          "MAY": 82.66,
+          "JUN": 81.88,
+          "JUL": 80.03,
+          "AUG": 77.64,
+          "SEP": 76.14,
+          "OCT": 78.8,
+          "NOV": 73.69,
+          "DEC": 62.22,
+          "ANN": 69.66
+        },
+        "T2M": {
+          "JAN": 19.98,
+          "FEB": 21.55,
+          "MAR": 21.66,
+          "APR": 19.67,
+          "MAY": 18.56,
+          "JUN": 17.7,
+          "JUL": 17.23,
+          "AUG": 17.55,
+          "SEP": 18.17,
+          "OCT": 18.32,
+          "NOV": 18.16,
+          "DEC": 18.41,
+          "ANN": 18.9
+        }
+      }
+    }
+  },
+  {
+    "country": "TANZANIA",
+    "place": "킬리만자로·모시 인근",
+    "lat": -3.25,
+    "lon": 37.35,
+    "title": "작은 피베리에 담긴 과일 향",
+    "story": "킬리만자로와 아루샤에서 생산되는 워시드 커피를 살펴봅니다. 피베리는 품종명이 아니라 체리 안에서 한 개의 둥근 씨앗이 자란 형태를 뜻합니다.",
+    "name": "킬리만자로 피베리 워시드",
+    "process": "Washed",
+    "notes": [
+      "다크초콜릿",
+      "라즈베리",
+      "오렌지"
+    ],
+    "url": "https://www.houseofcoffeebeans.com/unblended/tanzania-peaberry",
+    "climate": {
+      "temperature": 17.47,
+      "humidity": 75.87,
+      "solar": 19.51,
+      "elevation": 1842.67,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=37.35&latitude=-3.25&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 22.39,
+          "FEB": 23.1,
+          "MAR": 21.73,
+          "APR": 18.58,
+          "MAY": 16.43,
+          "JUN": 15.58,
+          "JUL": 15.83,
+          "AUG": 17.3,
+          "SEP": 20.34,
+          "OCT": 21.26,
+          "NOV": 20.64,
+          "DEC": 21.15,
+          "ANN": 19.51
+        },
+        "RH2M": {
+          "JAN": 75.76,
+          "FEB": 72.62,
+          "MAR": 74.83,
+          "APR": 80.88,
+          "MAY": 82.96,
+          "JUN": 79,
+          "JUL": 74.93,
+          "AUG": 72.26,
+          "SEP": 68.35,
+          "OCT": 69.99,
+          "NOV": 77.91,
+          "DEC": 80.77,
+          "ANN": 75.87
+        },
+        "T2M": {
+          "JAN": 18.15,
+          "FEB": 18.75,
+          "MAR": 18.98,
+          "APR": 18.21,
+          "MAY": 16.87,
+          "JUN": 15.69,
+          "JUL": 15.28,
+          "AUG": 16,
+          "SEP": 17.3,
+          "OCT": 18.2,
+          "NOV": 18.26,
+          "DEC": 18,
+          "ANN": 17.47
+        }
+      }
+    }
+  },
+  {
+    "country": "RWANDA",
+    "place": "키부호·기세니 인근",
+    "lat": -1.7,
+    "lon": 29.35,
+    "title": "부르봉과 워시드의 만남",
+    "story": "높은 구릉지에서 재배한 커피를 공동 워싱스테이션에서 가공하는 생산 방식이 특징입니다. COOPAC 부르봉 워시드의 감귤류와 단맛을 참고해보세요.",
+    "name": "COOPAC 부르봉 워시드",
+    "process": "Washed",
+    "notes": [
+      "오렌지 마멀레이드",
+      "흑설탕",
+      "초콜릿"
+    ],
+    "url": "https://homeroastcoffee.com/products/rwanda-organic-ft-coopac-bourbon-fw-green-coffee-beans",
+    "climate": {
+      "temperature": 17.34,
+      "humidity": 78.39,
+      "solar": 17.3,
+      "elevation": 2024.93,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=29.35&latitude=-1.7&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 17.36,
+          "FEB": 18.12,
+          "MAR": 17.7,
+          "APR": 16.98,
+          "MAY": 16.65,
+          "JUN": 16.81,
+          "JUL": 17.53,
+          "AUG": 17.44,
+          "SEP": 18.1,
+          "OCT": 17.46,
+          "NOV": 16.7,
+          "DEC": 16.78,
+          "ANN": 17.3
+        },
+        "RH2M": {
+          "JAN": 79.28,
+          "FEB": 76.12,
+          "MAR": 78.97,
+          "APR": 82.98,
+          "MAY": 83.57,
+          "JUN": 77.92,
+          "JUL": 71.78,
+          "AUG": 71.24,
+          "SEP": 75.06,
+          "OCT": 79.57,
+          "NOV": 82.49,
+          "DEC": 81.68,
+          "ANN": 78.39
+        },
+        "T2M": {
+          "JAN": 17.33,
+          "FEB": 17.98,
+          "MAR": 17.96,
+          "APR": 17.51,
+          "MAY": 17.16,
+          "JUN": 16.65,
+          "JUL": 16.68,
+          "AUG": 17.39,
+          "SEP": 17.66,
+          "OCT": 17.42,
+          "NOV": 17.19,
+          "DEC": 17.15,
+          "ANN": 17.34
+        }
+      }
+    }
+  },
+  {
+    "country": "UGANDA",
+    "place": "부기수·엘곤산 서사면 인근",
+    "lat": 1.1,
+    "lon": 34.4,
+    "title": "엘곤산에서 시작된 깊은 맛",
+    "story": "부기수는 우간다 동부 엘곤산 주변의 아라비카 산지입니다. 시피폴스 워시드는 초콜릿과 짙은 과일 풍미를 비교하기 좋은 사례입니다.",
+    "name": "부기수 시피폴스 워시드",
+    "process": "Washed",
+    "notes": [
+      "초콜릿",
+      "검은 과일",
+      "흙내음"
+    ],
+    "url": "https://coffeebeancorral.com/products/uganda-organic-bugisu",
+    "climate": {
+      "temperature": 17.86,
+      "humidity": 77.22,
+      "solar": 21.31,
+      "elevation": 1952.56,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=34.4&latitude=1.1&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 22.31,
+          "FEB": 23.44,
+          "MAR": 22.85,
+          "APR": 21.47,
+          "MAY": 20.94,
+          "JUN": 19.55,
+          "JUL": 19.01,
+          "AUG": 20.34,
+          "SEP": 22.37,
+          "OCT": 21.41,
+          "NOV": 20.8,
+          "DEC": 21.4,
+          "ANN": 21.31
+        },
+        "RH2M": {
+          "JAN": 67.25,
+          "FEB": 63.5,
+          "MAR": 68.07,
+          "APR": 77.74,
+          "MAY": 83.28,
+          "JUN": 84.05,
+          "JUL": 83.73,
+          "AUG": 83.47,
+          "SEP": 80.23,
+          "OCT": 80.2,
+          "NOV": 80.21,
+          "DEC": 74.11,
+          "ANN": 77.22
+        },
+        "T2M": {
+          "JAN": 18.13,
+          "FEB": 19.17,
+          "MAR": 19.57,
+          "APR": 18.73,
+          "MAY": 17.86,
+          "JUN": 17.04,
+          "JUL": 16.54,
+          "AUG": 16.89,
+          "SEP": 17.59,
+          "OCT": 17.78,
+          "NOV": 17.56,
+          "DEC": 17.51,
+          "ANN": 17.86
+        }
+      }
+    }
+  },
+  {
+    "country": "KENYA",
+    "place": "키리냐가 인근",
+    "lat": -0.5,
+    "lon": 37.3,
+    "title": "선명한 산미와 과일의 여운",
+    "story": "케냐 커피의 AA는 품종이 아니라 생두 크기에 따른 등급입니다. 키리냐가와 키암부의 커피를 나란히 놓고 산미와 과일 향의 차이를 살펴보세요.",
+    "name": "키리냐가 AA 워시드",
+    "process": "Washed",
+    "notes": [
+      "자몽",
+      "자두"
+    ],
+    "url": "https://www.sterling.coffee/products/kenya-kirinyaga-aa-tastes-like-grapefruit-plum",
+    "climate": {
+      "temperature": 20.41,
+      "humidity": 70.66,
+      "solar": 19.8,
+      "elevation": 1439.4,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=37.3&latitude=-0.5&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 22.27,
+          "FEB": 23.54,
+          "MAR": 22.71,
+          "APR": 20.27,
+          "MAY": 19.22,
+          "JUN": 16.61,
+          "JUL": 15.52,
+          "AUG": 16.62,
+          "SEP": 20.27,
+          "OCT": 20.74,
+          "NOV": 19.62,
+          "DEC": 20.47,
+          "ANN": 19.8
+        },
+        "RH2M": {
+          "JAN": 65.25,
+          "FEB": 60.49,
+          "MAR": 64.58,
+          "APR": 75.67,
+          "MAY": 77.6,
+          "JUN": 74.63,
+          "JUL": 71.7,
+          "AUG": 70.06,
+          "SEP": 65.79,
+          "OCT": 69.08,
+          "NOV": 78.26,
+          "DEC": 74.3,
+          "ANN": 70.66
+        },
+        "T2M": {
+          "JAN": 20.79,
+          "FEB": 21.84,
+          "MAR": 22.26,
+          "APR": 21.28,
+          "MAY": 20.17,
+          "JUN": 19.23,
+          "JUL": 18.71,
+          "AUG": 19.06,
+          "SEP": 20.27,
+          "OCT": 20.9,
+          "NOV": 20.35,
+          "DEC": 20.22,
+          "ANN": 20.41
+        }
+      }
+    }
+  },
+  {
+    "country": "CAMEROON",
+    "place": "보요·펀동 인근",
+    "lat": 6.25,
+    "lon": 10.3,
+    "title": "서부 고원의 부드러운 개성",
+    "story": "카메룬의 서부 고원은 아라비카 산지입니다. 보요 피베리는 향과 묵직한 질감, 부드러운 인상으로 소개되는 커피입니다.",
+    "name": "보요 피베리",
+    "process": "가공 정보 확인 중",
+    "notes": [
+      "부드러운 맛",
+      "풍부한 향",
+      "묵직한 바디"
+    ],
+    "url": "https://joescoffeehouse.com/products/cameroon-boyo-peaberry-coffee",
+    "climate": {
+      "temperature": 22.69,
+      "humidity": 79.08,
+      "solar": 18.61,
+      "elevation": 825.11,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=10.3&latitude=6.25&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 21.4,
+          "FEB": 20.92,
+          "MAR": 20.09,
+          "APR": 19.26,
+          "MAY": 18.74,
+          "JUN": 16.98,
+          "JUL": 15.21,
+          "AUG": 14.91,
+          "SEP": 16.64,
+          "OCT": 18.14,
+          "NOV": 20.2,
+          "DEC": 21.01,
+          "ANN": 18.61
+        },
+        "RH2M": {
+          "JAN": 59.33,
+          "FEB": 62.03,
+          "MAR": 73.29,
+          "APR": 81.69,
+          "MAY": 85.24,
+          "JUN": 87.11,
+          "JUL": 89.56,
+          "AUG": 90.38,
+          "SEP": 88.95,
+          "OCT": 86.87,
+          "NOV": 78.57,
+          "DEC": 65.11,
+          "ANN": 79.08
+        },
+        "T2M": {
+          "JAN": 22.24,
+          "FEB": 23.88,
+          "MAR": 24.43,
+          "APR": 24.12,
+          "MAY": 23.6,
+          "JUN": 22.59,
+          "JUL": 21.56,
+          "AUG": 21.3,
+          "SEP": 21.82,
+          "OCT": 22.5,
+          "NOV": 22.54,
+          "DEC": 21.86,
+          "ANN": 22.69
+        }
+      }
+    }
+  },
+  {
+    "country": "BRAZIL",
+    "place": "몬테카르멜루 인근",
+    "lat": -18.73,
+    "lon": -47.5,
+    "title": "생산자의 이야기가 담긴 단맛",
+    "story": "Café Delas는 여성 커피 생산자를 지원하는 프로그램입니다. 같은 프로그램의 커피라도 농장과 수확 시기에 따라 맛이 달라지므로 상품별 정보를 함께 살펴보세요.",
+    "name": "카페델라스",
+    "process": "Natural",
+    "notes": [
+      "프랄린",
+      "말린 무화과"
+    ],
+    "url": "https://www.maudecoffee.co.uk/products/cafe-delas-brazil",
+    "climate": {
+      "temperature": 22.51,
+      "humidity": 70.11,
+      "solar": 19.57,
+      "elevation": 800.25,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=-47.5&latitude=-18.73&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 21.11,
+          "FEB": 21.66,
+          "MAR": 19.7,
+          "APR": 18.7,
+          "MAY": 16.85,
+          "JUN": 16.09,
+          "JUL": 17.07,
+          "AUG": 19.82,
+          "SEP": 21.3,
+          "OCT": 21.5,
+          "NOV": 20.4,
+          "DEC": 20.73,
+          "ANN": 19.57
+        },
+        "RH2M": {
+          "JAN": 79.18,
+          "FEB": 79.28,
+          "MAR": 81.12,
+          "APR": 77.98,
+          "MAY": 73.75,
+          "JUN": 70.22,
+          "JUL": 62.51,
+          "AUG": 53.99,
+          "SEP": 50.51,
+          "OCT": 60.32,
+          "NOV": 74.19,
+          "DEC": 78.8,
+          "ANN": 70.11
+        },
+        "T2M": {
+          "JAN": 23.61,
+          "FEB": 23.48,
+          "MAR": 23.08,
+          "APR": 22.35,
+          "MAY": 20.23,
+          "JUN": 19.38,
+          "JUL": 19.45,
+          "AUG": 21.41,
+          "SEP": 24.32,
+          "OCT": 25.24,
+          "NOV": 23.95,
+          "DEC": 23.69,
+          "ANN": 22.51
+        }
+      }
+    }
+  },
+  {
+    "country": "GUATEMALA",
+    "place": "안티구아 인근",
+    "lat": 14.56,
+    "lon": -90.73,
+    "title": "단맛과 차의 향이 만나는 산지",
+    "story": "안티구아 워시드 커피의 한 사례에서는 흑설탕과 허브티, 사과가 소개됩니다. 산지명만으로 맛을 단정하기보다 가공 방식과 로트 정보를 함께 확인해보세요.",
+    "name": "안티구아 워시드",
+    "process": "Washed",
+    "notes": [
+      "흑설탕",
+      "허브티",
+      "사과"
+    ],
+    "url": "https://library.sweetmarias.com/sweet-marias-emailer-roundup-october-2020-duplicate-3/",
+    "climate": {
+      "temperature": 20.98,
+      "humidity": 77.87,
+      "solar": 19.43,
+      "elevation": 1156.37,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=-90.73&latitude=14.56&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 18.78,
+          "FEB": 20.56,
+          "MAR": 21.96,
+          "APR": 21.16,
+          "MAY": 18.85,
+          "JUN": 18.7,
+          "JUL": 20.95,
+          "AUG": 20.43,
+          "SEP": 18.4,
+          "OCT": 17.3,
+          "NOV": 17.99,
+          "DEC": 18.08,
+          "ANN": 19.43
+        },
+        "RH2M": {
+          "JAN": 72.6,
+          "FEB": 67.75,
+          "MAR": 63.27,
+          "APR": 65.59,
+          "MAY": 76.43,
+          "JUN": 84.11,
+          "JUL": 83.24,
+          "AUG": 84.62,
+          "SEP": 87.31,
+          "OCT": 87.02,
+          "NOV": 82.81,
+          "DEC": 79.02,
+          "ANN": 77.87
+        },
+        "T2M": {
+          "JAN": 19.23,
+          "FEB": 20.78,
+          "MAR": 22.16,
+          "APR": 23.35,
+          "MAY": 22.69,
+          "JUN": 21.5,
+          "JUL": 21.32,
+          "AUG": 21.23,
+          "SEP": 20.83,
+          "OCT": 20.4,
+          "NOV": 19.3,
+          "DEC": 18.91,
+          "ANN": 20.98
+        }
+      }
+    }
+  },
+  {
+    "country": "COSTA RICA",
+    "place": "타라주·산마르코스 인근",
+    "lat": 9.66,
+    "lon": -84.02,
+    "title": "과일과 견과의 균형",
+    "story": "타라주는 코스타리카를 대표하는 커피 산지 중 하나입니다. 엘 콘키스타도르의 과일과 견과 계열 풍미를 통해 산지의 한 단면을 만나보세요.",
+    "name": "타라주 엘 콘키스타도르",
+    "process": "Washed",
+    "notes": [
+      "과일",
+      "견과"
+    ],
+    "url": "https://coffeebeancorral.com/products/costa-rica-el-conquistador-tarrazu",
+    "climate": {
+      "temperature": 21.29,
+      "humidity": 84.96,
+      "solar": 18.53,
+      "elevation": 1018.16,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=-84.02&latitude=9.66&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 19.94,
+          "FEB": 22.62,
+          "MAR": 23.51,
+          "APR": 20.8,
+          "MAY": 17.68,
+          "JUN": 17.28,
+          "JUL": 16.78,
+          "AUG": 17.25,
+          "SEP": 17.6,
+          "OCT": 15.74,
+          "NOV": 15.82,
+          "DEC": 17.6,
+          "ANN": 18.53
+        },
+        "RH2M": {
+          "JAN": 81.13,
+          "FEB": 76.55,
+          "MAR": 74.33,
+          "APR": 77.78,
+          "MAY": 86.61,
+          "JUN": 89.49,
+          "JUL": 88.28,
+          "AUG": 88.43,
+          "SEP": 89.52,
+          "OCT": 91.67,
+          "NOV": 89.95,
+          "DEC": 85.21,
+          "ANN": 84.96
+        },
+        "T2M": {
+          "JAN": 20.64,
+          "FEB": 21.08,
+          "MAR": 21.86,
+          "APR": 22.26,
+          "MAY": 21.93,
+          "JUN": 21.59,
+          "JUL": 21.32,
+          "AUG": 21.36,
+          "SEP": 21.19,
+          "OCT": 20.88,
+          "NOV": 20.74,
+          "DEC": 20.68,
+          "ANN": 21.29
+        }
+      }
+    }
+  },
+  {
+    "country": "EL SALVADOR",
+    "place": "아파네카 인근",
+    "lat": 13.86,
+    "lon": -89.8,
+    "title": "부르봉의 달콤하고 부드러운 질감",
+    "story": "엘살바도르는 부르봉·파카스·파카마라 커피로 알려져 있습니다. 세로 엘 티그레 부르봉은 풍부한 질감과 초콜릿 계열의 단맛을 보여주는 사례입니다.",
+    "name": "세로 엘 티그레 부르봉 워시드",
+    "process": "Washed",
+    "notes": [
+      "다크초콜릿",
+      "캐슈버터",
+      "카라멜"
+    ],
+    "url": "https://thecaptainscoffee.com/products/el-salvador-cerro-el-tigre-bourbon",
+    "climate": {
+      "temperature": 24.66,
+      "humidity": 74.25,
+      "solar": 21.21,
+      "elevation": 607.66,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=-89.8&latitude=13.86&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 20.75,
+          "FEB": 22.66,
+          "MAR": 23.94,
+          "APR": 22.66,
+          "MAY": 20.37,
+          "JUN": 20.36,
+          "JUL": 22.7,
+          "AUG": 22.2,
+          "SEP": 20.16,
+          "OCT": 18.91,
+          "NOV": 19.99,
+          "DEC": 19.91,
+          "ANN": 21.21
+        },
+        "RH2M": {
+          "JAN": 67.19,
+          "FEB": 63.43,
+          "MAR": 60.57,
+          "APR": 62.93,
+          "MAY": 72.95,
+          "JUN": 81.12,
+          "JUL": 79.75,
+          "AUG": 81.45,
+          "SEP": 84.76,
+          "OCT": 84.16,
+          "NOV": 78.77,
+          "DEC": 73.33,
+          "ANN": 74.25
+        },
+        "T2M": {
+          "JAN": 23.42,
+          "FEB": 24.73,
+          "MAR": 25.78,
+          "APR": 26.77,
+          "MAY": 26.1,
+          "JUN": 24.94,
+          "JUL": 25.04,
+          "AUG": 24.88,
+          "SEP": 24.24,
+          "OCT": 23.86,
+          "NOV": 23.08,
+          "DEC": 23.11,
+          "ANN": 24.66
+        }
+      }
+    }
+  },
+  {
+    "country": "HONDURAS",
+    "place": "코판·코르킨 인근",
+    "lat": 14.57,
+    "lon": -88.87,
+    "title": "초콜릿을 닮은 편안한 인상",
+    "story": "온두라스 서부 코판의 워시드 커피에서는 초콜릿과 오렌지 껍질 같은 향미가 소개됩니다. 같은 코판 안에서도 생산자와 가공 조건에 따라 인상이 달라집니다.",
+    "name": "코판 워시드",
+    "process": "Washed",
+    "notes": [
+      "초콜릿",
+      "오렌지 껍질"
+    ],
+    "url": "https://www.copancoffeeroasters.com/blogs/news/honduran-coffee-flavor-profiles",
+    "climate": {
+      "temperature": 21.74,
+      "humidity": 78.38,
+      "solar": 18.86,
+      "elevation": 1021.41,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=-88.87&latitude=14.57&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 16.48,
+          "FEB": 19.62,
+          "MAR": 21.68,
+          "APR": 21.4,
+          "MAY": 19.37,
+          "JUN": 19.35,
+          "JUL": 20.85,
+          "AUG": 20.93,
+          "SEP": 19.03,
+          "OCT": 16.52,
+          "NOV": 15.5,
+          "DEC": 15.66,
+          "ANN": 18.86
+        },
+        "RH2M": {
+          "JAN": 78.7,
+          "FEB": 71.26,
+          "MAR": 65.19,
+          "APR": 63.77,
+          "MAY": 72.53,
+          "JUN": 82.52,
+          "JUL": 81.58,
+          "AUG": 82.44,
+          "SEP": 85.53,
+          "OCT": 87.29,
+          "NOV": 86.02,
+          "DEC": 83.21,
+          "ANN": 78.38
+        },
+        "T2M": {
+          "JAN": 19.34,
+          "FEB": 21.09,
+          "MAR": 22.65,
+          "APR": 24.35,
+          "MAY": 23.95,
+          "JUN": 22.52,
+          "JUL": 22.41,
+          "AUG": 22.47,
+          "SEP": 21.99,
+          "OCT": 21.08,
+          "NOV": 19.68,
+          "DEC": 19.3,
+          "ANN": 21.74
+        }
+      }
+    }
+  },
+  {
+    "country": "JAMAICA",
+    "place": "블루마운틴·클라이즈데일 인근",
+    "lat": 18.05,
+    "lon": -76.65,
+    "title": "부드러운 질감과 은은한 향신료",
+    "story": "블루마운틴은 자메이카의 산지 명칭입니다. 클라이즈데일 커피의 말린 사과와 베이킹 스파이스, 부드러운 질감을 참고해보세요.",
+    "name": "블루마운틴 클라이즈데일",
+    "process": "Washed",
+    "notes": [
+      "말린 사과",
+      "베이킹 스파이스",
+      "부드러운 질감"
+    ],
+    "url": "https://coffeebeancorral.com/products/jamaican-blue-mountain",
+    "climate": {
+      "temperature": 26.96,
+      "humidity": 75.95,
+      "solar": 18.85,
+      "elevation": 138.05,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=-76.65&latitude=18.05&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 15.36,
+          "FEB": 18.11,
+          "MAR": 20.49,
+          "APR": 22.12,
+          "MAY": 20.8,
+          "JUN": 21.13,
+          "JUL": 21.66,
+          "AUG": 20.66,
+          "SEP": 19.73,
+          "OCT": 16.73,
+          "NOV": 15.02,
+          "DEC": 14.41,
+          "ANN": 18.85
+        },
+        "RH2M": {
+          "JAN": 74.85,
+          "FEB": 72.84,
+          "MAR": 70.47,
+          "APR": 70.51,
+          "MAY": 74.83,
+          "JUN": 79.18,
+          "JUL": 78.38,
+          "AUG": 78.14,
+          "SEP": 77.99,
+          "OCT": 79.49,
+          "NOV": 77.62,
+          "DEC": 76.8,
+          "ANN": 75.95
+        },
+        "T2M": {
+          "JAN": 25.5,
+          "FEB": 25.64,
+          "MAR": 26.11,
+          "APR": 27.01,
+          "MAY": 27.4,
+          "JUN": 27.5,
+          "JUL": 27.81,
+          "AUG": 28.06,
+          "SEP": 27.99,
+          "OCT": 27.52,
+          "NOV": 26.77,
+          "DEC": 26.11,
+          "ANN": 26.96
+        }
+      }
+    }
+  },
+  {
+    "country": "PANAMA",
+    "place": "보케테 인근",
+    "lat": 8.78,
+    "lon": -82.43,
+    "title": "품종의 차이를 즐기는 보케테",
+    "story": "보케테에는 게이샤 외에도 카투라와 카투아이, 티피카가 재배됩니다. 카투라 워시드의 레몬 계열 산미를 통해 품종의 차이를 탐색해보세요.",
+    "name": "보케테 카투라 워시드",
+    "process": "Washed",
+    "notes": [
+      "레몬",
+      "산뜻한 산미"
+    ],
+    "url": "https://www.pancafestore.com/green-coffee/",
+    "climate": {
+      "temperature": 22.63,
+      "humidity": 88.13,
+      "solar": 16.71,
+      "elevation": 688.44,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=-82.43&latitude=8.78&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 18.07,
+          "FEB": 20.13,
+          "MAR": 20.56,
+          "APR": 18.57,
+          "MAY": 16.29,
+          "JUN": 15.62,
+          "JUL": 15.47,
+          "AUG": 15.71,
+          "SEP": 16.03,
+          "OCT": 14.49,
+          "NOV": 14.03,
+          "DEC": 15.77,
+          "ANN": 16.71
+        },
+        "RH2M": {
+          "JAN": 87.49,
+          "FEB": 82.39,
+          "MAR": 79.37,
+          "APR": 81.18,
+          "MAY": 88.38,
+          "JUN": 91.06,
+          "JUL": 91.94,
+          "AUG": 91.11,
+          "SEP": 90.14,
+          "OCT": 91.47,
+          "NOV": 92.19,
+          "DEC": 90.41,
+          "ANN": 88.13
+        },
+        "T2M": {
+          "JAN": 21.6,
+          "FEB": 22.02,
+          "MAR": 22.74,
+          "APR": 23.38,
+          "MAY": 23.38,
+          "JUN": 23.11,
+          "JUL": 22.72,
+          "AUG": 22.81,
+          "SEP": 22.85,
+          "OCT": 22.66,
+          "NOV": 22.34,
+          "DEC": 21.99,
+          "ANN": 22.63
+        }
+      }
+    }
+  },
+  {
+    "country": "COLOMBIA",
+    "place": "후일라·피탈리토 인근",
+    "lat": 1.85,
+    "lon": -76.05,
+    "title": "산지와 가공으로 넓어지는 선택",
+    "story": "콜롬비아에서는 워시드뿐 아니라 디카페인과 다양한 발효 커피를 만날 수 있습니다. 슈프리모는 크기 등급이므로 농장이나 특정 향미를 뜻하지 않습니다.",
+    "name": "메델린 슈프리모",
+    "process": "Washed",
+    "notes": [
+      "시트러스",
+      "초콜릿"
+    ],
+    "url": "https://tmwardcoffee.com/products/colombian-medellin-supremo-coffee",
+    "climate": {
+      "temperature": 15.57,
+      "humidity": 85.38,
+      "solar": 13.58,
+      "elevation": 2121.16,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=-76.05&latitude=1.85&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 14.66,
+          "FEB": 13.68,
+          "MAR": 12.89,
+          "APR": 13.61,
+          "MAY": 12.96,
+          "JUN": 12.25,
+          "JUL": 12.23,
+          "AUG": 12.63,
+          "SEP": 14.59,
+          "OCT": 14.99,
+          "NOV": 14.44,
+          "DEC": 14.03,
+          "ANN": 13.58
+        },
+        "RH2M": {
+          "JAN": 85.16,
+          "FEB": 84.92,
+          "MAR": 86.2,
+          "APR": 87.26,
+          "MAY": 87.83,
+          "JUN": 87.55,
+          "JUL": 85.85,
+          "AUG": 82.83,
+          "SEP": 80.81,
+          "OCT": 83.16,
+          "NOV": 86.23,
+          "DEC": 86.8,
+          "ANN": 85.38
+        },
+        "T2M": {
+          "JAN": 15.94,
+          "FEB": 16.17,
+          "MAR": 16.06,
+          "APR": 15.82,
+          "MAY": 15.43,
+          "JUN": 14.52,
+          "JUL": 14.47,
+          "AUG": 14.98,
+          "SEP": 15.72,
+          "OCT": 16.1,
+          "NOV": 15.96,
+          "DEC": 15.79,
+          "ANN": 15.57
+        }
+      }
+    }
+  },
+  {
+    "country": "PAPUA NEW GUINEA",
+    "place": "모로베·와우 인근",
+    "lat": -7.34,
+    "lon": 146.72,
+    "title": "고지대 워시드의 풍부한 질감",
+    "story": "파푸아뉴기니의 커피는 고지대의 다양한 생산 환경에서 나옵니다. 동부 고지대 아로카라의 자두와 다크초콜릿 풍미는 비교해볼 수 있는 산지 사례입니다.",
+    "name": "고지대 워시드",
+    "process": "Washed",
+    "notes": [
+      "다크초콜릿",
+      "자두"
+    ],
+    "url": "https://coffeebeancorral.com/products/papua-new-guinea-aa-arokara",
+    "climate": {
+      "temperature": 20.49,
+      "humidity": 84.75,
+      "solar": 16.84,
+      "elevation": 1217.53,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=146.72&latitude=-7.34&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 18,
+          "FEB": 18.19,
+          "MAR": 17.54,
+          "APR": 17.06,
+          "MAY": 15.42,
+          "JUN": 13.94,
+          "JUL": 13.74,
+          "AUG": 14.81,
+          "SEP": 16.48,
+          "OCT": 18.94,
+          "NOV": 18.91,
+          "DEC": 19.11,
+          "ANN": 16.84
+        },
+        "RH2M": {
+          "JAN": 85.38,
+          "FEB": 86.2,
+          "MAR": 87.65,
+          "APR": 88.66,
+          "MAY": 87.98,
+          "JUN": 86.95,
+          "JUL": 85.89,
+          "AUG": 83.55,
+          "SEP": 81.8,
+          "OCT": 79.67,
+          "NOV": 81.22,
+          "DEC": 82.24,
+          "ANN": 84.75
+        },
+        "T2M": {
+          "JAN": 21.01,
+          "FEB": 20.84,
+          "MAR": 20.6,
+          "APR": 20.55,
+          "MAY": 20.33,
+          "JUN": 19.87,
+          "JUL": 19.42,
+          "AUG": 19.59,
+          "SEP": 20.16,
+          "OCT": 20.84,
+          "NOV": 21.24,
+          "DEC": 21.44,
+          "ANN": 20.49
+        }
+      }
+    }
+  },
+  {
+    "country": "INDONESIA",
+    "place": "수마트라·시디칼랑 인근",
+    "lat": 2.75,
+    "lon": 98.31,
+    "title": "만델링의 묵직한 질감",
+    "story": "만델링은 수마트라 커피의 유통 명칭입니다. 웻헐링 방식의 커피가 널리 알려져 있지만 모든 만델링의 가공이 같지는 않으므로 로트별 확인이 필요합니다.",
+    "name": "만델링",
+    "process": "가공 정보 확인 중",
+    "notes": [
+      "초콜릿",
+      "흙내음",
+      "묵직한 바디"
+    ],
+    "url": "https://library.sweetmarias.com/blending/",
+    "climate": {
+      "temperature": 22.22,
+      "humidity": 90.41,
+      "solar": 16.86,
+      "elevation": 719.61,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=98.31&latitude=2.75&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 16.8,
+          "FEB": 18.09,
+          "MAR": 18.25,
+          "APR": 17.18,
+          "MAY": 17.51,
+          "JUN": 17.45,
+          "JUL": 17.01,
+          "AUG": 16.96,
+          "SEP": 16.4,
+          "OCT": 15.84,
+          "NOV": 15.27,
+          "DEC": 15.63,
+          "ANN": 16.86
+        },
+        "RH2M": {
+          "JAN": 90.09,
+          "FEB": 88.66,
+          "MAR": 88.91,
+          "APR": 90.04,
+          "MAY": 90.77,
+          "JUN": 90.58,
+          "JUL": 90.63,
+          "AUG": 90.38,
+          "SEP": 90.53,
+          "OCT": 90.9,
+          "NOV": 91.81,
+          "DEC": 91.46,
+          "ANN": 90.41
+        },
+        "T2M": {
+          "JAN": 22.06,
+          "FEB": 22.42,
+          "MAR": 22.68,
+          "APR": 22.89,
+          "MAY": 22.79,
+          "JUN": 22.13,
+          "JUL": 21.85,
+          "AUG": 21.85,
+          "SEP": 21.91,
+          "OCT": 22.01,
+          "NOV": 22.03,
+          "DEC": 21.97,
+          "ANN": 22.22
+        }
+      }
+    }
+  },
+  {
+    "country": "YEMEN",
+    "place": "하라즈·마나하 인근",
+    "lat": 15.07,
+    "lon": 43.75,
+    "title": "산악 지형에서 자라는 내추럴",
+    "story": "예멘 하라즈는 산악 지형의 커피 산지입니다. 자연 건조 방식의 커피에서 꽃과 포도, 무화과를 연상시키는 향미가 소개됩니다.",
+    "name": "하라즈 내추럴",
+    "process": "Natural",
+    "notes": [
+      "꽃",
+      "포도",
+      "무화과"
+    ],
+    "url": "https://lasmorecafe.com/en/yemen-haraz-green-coffee-beans-2kg/p1888157871",
+    "climate": {
+      "temperature": 24.5,
+      "humidity": 42.96,
+      "solar": 22.08,
+      "elevation": 1368.29,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=43.75&latitude=15.07&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 18.88,
+          "FEB": 21,
+          "MAR": 23.39,
+          "APR": 24.51,
+          "MAY": 24.59,
+          "JUN": 24.2,
+          "JUL": 22.22,
+          "AUG": 21.76,
+          "SEP": 22.79,
+          "OCT": 22.78,
+          "NOV": 20.22,
+          "DEC": 18.69,
+          "ANN": 22.08
+        },
+        "RH2M": {
+          "JAN": 50.6,
+          "FEB": 46.05,
+          "MAR": 44,
+          "APR": 42.1,
+          "MAY": 38.31,
+          "JUN": 32.44,
+          "JUL": 44.21,
+          "AUG": 51.95,
+          "SEP": 39.91,
+          "OCT": 36.79,
+          "NOV": 42.26,
+          "DEC": 46.7,
+          "ANN": 42.96
+        },
+        "T2M": {
+          "JAN": 20.07,
+          "FEB": 21.75,
+          "MAR": 23.73,
+          "APR": 25.56,
+          "MAY": 27.32,
+          "JUN": 28.52,
+          "JUL": 27.26,
+          "AUG": 26.46,
+          "SEP": 26.94,
+          "OCT": 24.19,
+          "NOV": 21.95,
+          "DEC": 20.12,
+          "ANN": 24.5
+        }
+      }
+    }
+  },
+  {
+    "country": "INDIA",
+    "place": "치크마갈루르 인근 재배지",
+    "lat": 13.32,
+    "lon": 75.77,
+    "title": "몬순이 더하는 독특한 개성",
+    "story": "몬순드 말라바르는 수확 후 습한 계절풍에 생두를 노출하는 가공 방식입니다. 아래 기후는 내륙 재배지의 참고값이며 해안 몬수닝 창고의 조건은 아닙니다.",
+    "name": "몬순드 말라바르 AA",
+    "process": "Monsooned",
+    "notes": [
+      "다크초콜릿",
+      "구운 견과",
+      "달콤한 담배 향"
+    ],
+    "url": "https://www.sonofresco.com/product/indian-monsooned-malabar/",
+    "climate": {
+      "temperature": 22.53,
+      "humidity": 77.64,
+      "solar": 18.72,
+      "elevation": 810.8,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=75.77&latitude=13.32&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 20.01,
+          "FEB": 22.43,
+          "MAR": 23.78,
+          "APR": 23.41,
+          "MAY": 21.64,
+          "JUN": 15.34,
+          "JUL": 13.11,
+          "AUG": 13.92,
+          "SEP": 16.89,
+          "OCT": 17.86,
+          "NOV": 18.06,
+          "DEC": 18.43,
+          "ANN": 18.72
+        },
+        "RH2M": {
+          "JAN": 69.65,
+          "FEB": 60.71,
+          "MAR": 57.94,
+          "APR": 63.98,
+          "MAY": 73.85,
+          "JUN": 86.48,
+          "JUL": 90.32,
+          "AUG": 91.23,
+          "SEP": 89.91,
+          "OCT": 86.87,
+          "NOV": 82.27,
+          "DEC": 77.37,
+          "ANN": 77.64
+        },
+        "T2M": {
+          "JAN": 19.83,
+          "FEB": 22.07,
+          "MAR": 25.17,
+          "APR": 26.57,
+          "MAY": 25.5,
+          "JUN": 22.96,
+          "JUL": 22.05,
+          "AUG": 21.84,
+          "SEP": 21.96,
+          "OCT": 21.99,
+          "NOV": 20.85,
+          "DEC": 19.61,
+          "ANN": 22.53
+        }
+      }
+    }
+  },
+  {
+    "country": "HAWAII",
+    "place": "코나·홀루알로아 인근",
+    "lat": 19.63,
+    "lon": -155.95,
+    "title": "섬의 커피가 전하는 부드러운 단맛",
+    "story": "하와이 코나 커피는 중간 정도의 시럽 같은 질감과 카라멜·꿀·밀크초콜릿 향미로 소개됩니다. 코나는 하와이 전체를 가리키는 명칭이 아닙니다.",
+    "name": "코나 생두",
+    "process": "가공 정보 확인 중",
+    "notes": [
+      "카라멜",
+      "꿀",
+      "밀크초콜릿"
+    ],
+    "url": "https://www.konacoffeeandtea.com/blogs/kona-blog/what-does-kona-coffee-taste-like",
+    "climate": {
+      "temperature": 25.23,
+      "humidity": 75.73,
+      "solar": 19.01,
+      "elevation": 47.84,
+      "units": {
+        "ALLSKY_SFC_SW_DWN": {
+          "units": "MJ/m^2/day",
+          "longname": "All Sky Surface Shortwave Downward Irradiance"
+        },
+        "RH2M": {
+          "units": "%",
+          "longname": "Relative Humidity at 2 Meters"
+        },
+        "T2M": {
+          "units": "C",
+          "longname": "Temperature at 2 Meters"
+        }
+      },
+      "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+      "url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,RH2M,ALLSKY_SFC_SW_DWN&community=AG&longitude=-155.95&latitude=19.63&format=JSON",
+      "monthly": {
+        "ALLSKY_SFC_SW_DWN": {
+          "JAN": 15.98,
+          "FEB": 17.41,
+          "MAR": 18.63,
+          "APR": 20.35,
+          "MAY": 21.15,
+          "JUN": 21.87,
+          "JUL": 22.31,
+          "AUG": 21.89,
+          "SEP": 20.16,
+          "OCT": 18.01,
+          "NOV": 15.71,
+          "DEC": 14.57,
+          "ANN": 19.01
+        },
+        "RH2M": {
+          "JAN": 72.87,
+          "FEB": 73.38,
+          "MAR": 75.21,
+          "APR": 75.74,
+          "MAY": 77.5,
+          "JUN": 77.88,
+          "JUL": 78.31,
+          "AUG": 77.58,
+          "SEP": 76.99,
+          "OCT": 75.9,
+          "NOV": 73.97,
+          "DEC": 73.34,
+          "ANN": 75.73
+        },
+        "T2M": {
+          "JAN": 24.32,
+          "FEB": 23.99,
+          "MAR": 24.01,
+          "APR": 24.38,
+          "MAY": 24.77,
+          "JUN": 25.33,
+          "JUL": 25.89,
+          "AUG": 26.36,
+          "SEP": 26.32,
+          "OCT": 26.38,
+          "NOV": 25.87,
+          "DEC": 25.02,
+          "ANN": 25.23
+        }
+      }
+    }
+  }
+]

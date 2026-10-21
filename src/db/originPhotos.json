@@ -1,0 +1,97 @@
+{
+  "ETHIOPIA": {
+    "image": "./images/ethiopia.webp",
+    "photoAlt": "에티오피아 티그라이의 구릉 농경지",
+    "caption": "ETHIOPIA · TIGRAY LANDSCAPE"
+  },
+  "TANZANIA": {
+    "image": "./images/origin-tanzania.webp",
+    "photoAlt": "Coffee growing on Gibb's farm, in Karatu, Arusha, Tanzania",
+    "caption": "TANZANIA · COFFEE ORIGIN"
+  },
+  "RWANDA": {
+    "image": "./images/origin-rwanda.webp",
+    "photoAlt": "Coffee drying racks at Maraba, Rwanda.",
+    "caption": "RWANDA · COFFEE ORIGIN"
+  },
+  "UGANDA": {
+    "image": "./images/origin-uganda.webp",
+    "photoAlt": "Mixed farming of coffee and bananas in Uganda",
+    "caption": "UGANDA · COFFEE ORIGIN"
+  },
+  "KENYA": {
+    "image": "./images/origin-kenya.webp",
+    "photoAlt": "A vibrant coffee plantation showing rows of coffee plants growing on the characteristic red volcanic soil in Cianda, Kiambu County, Kenya. Located near the Kawaida Waterfall area.",
+    "caption": "KENYA · COFFEE ORIGIN"
+  },
+  "CAMEROON": {
+    "image": "./images/origin-cameroon.webp",
+    "photoAlt": "Landscape view of Njinikom, Bamenda.",
+    "caption": "CAMEROON · LOCAL LANDSCAPE"
+  },
+  "BRAZIL": {
+    "image": "./images/origin-brazil.webp",
+    "photoAlt": "Coffee plantation in São João do Manhuaçu, Minas Gerais, Brazil. January 2004.",
+    "caption": "BRAZIL · COFFEE ORIGIN"
+  },
+  "GUATEMALA": {
+    "image": "./images/origin-guatemala.webp",
+    "photoAlt": "Shade coffee plantation in Guatemala. This image is typical of a traditional shade coffee plantation in which only some or none of the canopy has been removed and coffee crops have been added.",
+    "caption": "GUATEMALA · COFFEE ORIGIN"
+  },
+  "COSTA RICA": {
+    "image": "./images/origin-costa-rica.webp",
+    "photoAlt": "Coffee plantation on a hill near Orosí, Costa Rica.",
+    "caption": "COSTA RICA · COFFEE ORIGIN"
+  },
+  "EL SALVADOR": {
+    "image": "./images/origin-el-salvador.webp",
+    "photoAlt": "Astronaut photograph of volcanoes near Usulután, El Salvador; coffee-growing slopes around San Miguel and Chinameca.",
+    "caption": "EL SALVADOR · LOCAL LANDSCAPE"
+  },
+  "HONDURAS": {
+    "image": "./images/origin-honduras.webp",
+    "photoAlt": "Terrain and hills near Palma Real, which is a village (aldea) in the municipality of San Luis, Santa Bárbara, Honduras. The stream in the photo drains through Palma Real into río Blanco.",
+    "caption": "HONDURAS · LOCAL LANDSCAPE"
+  },
+  "PANAMA": {
+    "image": "./images/origin-panama.webp",
+    "photoAlt": "Boquete is a delightful town in the mountain highlands of Panama. The high altitude makes for a cooler Panama as opposed to Panama City and Bocas Del Toro. It is surrounded by lush jungle forests and coffee fincas. In Spanish Boquete means \"gap,\" not boquet - but it seems like a boquet because of all the flowers.",
+    "caption": "PANAMA · LOCAL LANDSCAPE"
+  },
+  "COLOMBIA": {
+    "image": "./images/origin-colombia.webp",
+    "photoAlt": "Shade-grown coffee farm in Colombia.",
+    "caption": "COLOMBIA · COFFEE ORIGIN"
+  },
+  "PAPUA NEW GUINEA": {
+    "image": "./images/origin-papua-new-guinea.webp",
+    "photoAlt": "PNG91-003 Picking Coffee Beans Bobiufa Eastern Highlands Province (35mm Slide)",
+    "caption": "PAPUA NEW GUINEA · COFFEE ORIGIN · 1991"
+  },
+  "INDONESIA": {
+    "image": "./images/origin-indonesia.webp",
+    "photoAlt": "Arabica coffee farm between Simpang Banyak and Hutapadang, Ulu Pungkut, Mandailing Natal, Indonesia.",
+    "caption": "INDONESIA · COFFEE ORIGIN"
+  },
+  "YEMEN": {
+    "image": "./images/origin-yemen.webp",
+    "photoAlt": "Agricultural terraces near At Tawilah, Yemen",
+    "caption": "YEMEN · LOCAL LANDSCAPE"
+  },
+  "JAMAICA": {
+    "image": "./images/origin-jamaica.webp",
+    "photoAlt": "Jamaica blue mountain during harvest",
+    "caption": "JAMAICA · COFFEE ORIGIN"
+  },
+  "HAWAII": {
+    "image": "./images/origin-hawaii.webp",
+    "photoAlt": "A coffee plantation - the Island of Hawaiʻi.",
+    "caption": "HAWAII · COFFEE ORIGIN"
+  },
+  "INDIA": {
+    "image": "./images/origin-india.webp",
+    "photoAlt": "Coffee plantation shaded by a monoculture of non-native Silver oak trees in Chikmagalur, Karnataka",
+    "caption": "INDIA · COFFEE ORIGIN"
+  }
+}

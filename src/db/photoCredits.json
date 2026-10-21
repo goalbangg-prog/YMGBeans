@@ -1,0 +1,295 @@
+[
+  {
+    "id": "ethiopia",
+    "dimensions": [
+      2574,
+      1409
+    ],
+    "bytes": 1596431,
+    "title": "Hillside Farm, Tigray Region, Northern Ethiopia (3134129470).jpg",
+    "author": "A. Davey",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Hillside_Farm,_Tigray_Region,_Northern_Ethiopia_(3134129470).jpg",
+    "description": "Hillside farm along road from Adwa to Yeha, Tigray, Ethiopia. Country landscape only; do not label as a coffee farm.",
+    "note": "Warm hazy broad landscape, suitable for country card.",
+    "downloaded": true,
+    "visuallyInspected": true,
+    "changes": "Resized without upscaling; converted to WebP. Display crops via CSS.",
+    "output": "ethiopia.webp",
+    "outputDimensions": [
+      2560,
+      1401
+    ]
+  },
+  {
+    "id": "tanzania",
+    "title": "Coffee_plantation_in_Tanzania.jpg",
+    "author": "rjones0856",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coffee_plantation_in_Tanzania.jpg",
+    "description": "Coffee growing on Gibb's farm, in Karatu, Arusha, Tanzania",
+    "output": "origin-tanzania.webp",
+    "outputDimensions": [
+      1200,
+      800
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "rwanda",
+    "title": "MarabaCoffeeDryingRacks.jpg",
+    "author": "SteveRwanda / Amakuru",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:MarabaCoffeeDryingRacks.jpg",
+    "description": "Coffee drying racks at Maraba, Rwanda.",
+    "output": "origin-rwanda.webp",
+    "outputDimensions": [
+      1280,
+      960
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "uganda",
+    "title": "Coffee_and_banana_plantation_in_Uganda.jpg",
+    "author": "Kateregga1",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coffee_and_banana_plantation_in_Uganda.jpg",
+    "description": "Mixed farming of coffee and bananas in Uganda",
+    "output": "origin-uganda.webp",
+    "outputDimensions": [
+      1800,
+      1013
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "kenya",
+    "title": "Coffee_plantation_near_Kawaida_Falls,_Cianda,_Kiambu_County_01.jpg",
+    "author": "Lebu Ayiga",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coffee_plantation_near_Kawaida_Falls,_Cianda,_Kiambu_County_01.jpg",
+    "description": "A vibrant coffee plantation showing rows of coffee plants growing on the characteristic red volcanic soil in Cianda, Kiambu County, Kenya. Located near the Kawaida Waterfall area.",
+    "output": "origin-kenya.webp",
+    "outputDimensions": [
+      1600,
+      1200
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "cameroon",
+    "title": "Boyo_hills_of_Bamenda,_Cameroon_02.jpg",
+    "author": "Alangi Derick",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boyo_hills_of_Bamenda,_Cameroon_02.jpg",
+    "description": "Landscape view of Njinikom, Bamenda.",
+    "output": "origin-cameroon.webp",
+    "outputDimensions": [
+      1280,
+      853
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "brazil",
+    "title": "Coffee_Plantation.jpg",
+    "author": "Fernando Rebêlo",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Coffee_Plantation.jpg",
+    "description": "Coffee plantation in São João do Manhuaçu, Minas Gerais, Brazil. January 2004.",
+    "output": "origin-brazil.webp",
+    "outputDimensions": [
+      1800,
+      686
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "guatemala",
+    "title": "Shade_grown_coffee_in_Guatemala.jpg",
+    "author": "John Blake",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Shade_grown_coffee_in_Guatemala.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shade_grown_coffee_in_Guatemala.jpg",
+    "description": "Shade coffee plantation in Guatemala. This image is typical of a traditional shade coffee plantation in which only some or none of the canopy has been removed and coffee crops have been added.",
+    "output": "origin-guatemala.webp",
+    "outputDimensions": [
+      1240,
+      842
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "costa-rica",
+    "title": "DirkvdM_orosi_hill_plantation.jpg",
+    "author": "Dirk van der Made",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:DirkvdM_orosi_hill_plantation.jpg",
+    "description": "Coffee plantation on a hill near Orosí, Costa Rica.",
+    "output": "origin-costa-rica.webp",
+    "outputDimensions": [
+      960,
+      720
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "el-salvador",
+    "title": "Volcanoes_near_Usulut%C3%A1n,_El_Salvador.jpg",
+    "author": "NASA Expedition 23 crew",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Volcanoes_near_Usulut%C3%A1n,_El_Salvador.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Volcanoes_near_Usulut%C3%A1n,_El_Salvador.jpg",
+    "description": "Astronaut photograph of volcanoes near Usulután, El Salvador; coffee-growing slopes around San Miguel and Chinameca.",
+    "output": "origin-el-salvador.webp",
+    "outputDimensions": [
+      1280,
+      1118
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "honduras",
+    "title": "Countryside_near_Palma_Real,_a_village_(aldea)_in_the_municipality_of_Proteccion.jpg",
+    "author": "Catrachos",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Countryside_near_Palma_Real,_a_village_(aldea)_in_the_municipality_of_Proteccion.jpg",
+    "description": "Terrain and hills near Palma Real, which is a village (aldea) in the municipality of San Luis, Santa Bárbara, Honduras. The stream in the photo drains through Palma Real into río Blanco.",
+    "output": "origin-honduras.webp",
+    "outputDimensions": [
+      1280,
+      960
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "panama",
+    "title": "Boquete,_Panama.jpg",
+    "author": "Michael (a.k.a. moik) McCullough",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boquete,_Panama.jpg",
+    "description": "Boquete is a delightful town in the mountain highlands of Panama. The high altitude makes for a cooler Panama as opposed to Panama City and Bocas Del Toro. It is surrounded by lush jungle forests and coffee fincas. In Spanish Boquete means \"gap,\" not boquet - but it seems like a boquet because of all the flowers.",
+    "output": "origin-panama.webp",
+    "outputDimensions": [
+      1280,
+      1087
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "colombia",
+    "title": "Coffee_farm_in_Colombia.jpg",
+    "author": "Brian Smith / American Bird Conservancy; published by U.S. Fish and Wildlife Service Northeast Region",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coffee_farm_in_Colombia.jpg",
+    "description": "Shade-grown coffee farm in Colombia.",
+    "output": "origin-colombia.webp",
+    "outputDimensions": [
+      1280,
+      960
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "papua-new-guinea",
+    "title": "Papua_New_Guinea_1991-003_Picking_Coffee_Beans_Bobiufa_Eastern_Highlands_Province_(35mm_Slide)_(33349419950).jpg",
+    "author": "Brian ireland",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Papua_New_Guinea_1991-003_Picking_Coffee_Beans_Bobiufa_Eastern_Highlands_Province_(35mm_Slide)_(33349419950).jpg",
+    "description": "PNG91-003 Picking Coffee Beans Bobiufa Eastern Highlands Province (35mm Slide)",
+    "output": "origin-papua-new-guinea.webp",
+    "outputDimensions": [
+      1216,
+      1800
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "indonesia",
+    "title": "Gambar_ni_kobun_kopi_arabika_i_Mandailing.jpg",
+    "author": "AHMatondang",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gambar_ni_kobun_kopi_arabika_i_Mandailing.jpg",
+    "description": "Arabica coffee farm between Simpang Banyak and Hutapadang, Ulu Pungkut, Mandailing Natal, Indonesia.",
+    "output": "origin-indonesia.webp",
+    "outputDimensions": [
+      1280,
+      576
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "yemen",
+    "title": "Yemen_landscape_05.jpg",
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yemen_landscape_05.jpg",
+    "description": "Agricultural terraces near At Tawilah, Yemen",
+    "output": "origin-yemen.webp",
+    "outputDimensions": [
+      1280,
+      766
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "jamaica",
+    "title": "Jamaica_blue_mountain_during_harvest_-_panoramio.jpg",
+    "author": "Paul Dober",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jamaica_blue_mountain_during_harvest_-_panoramio.jpg",
+    "description": "Jamaica blue mountain during harvest",
+    "output": "origin-jamaica.webp",
+    "outputDimensions": [
+      1280,
+      896
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "hawaii",
+    "title": "Island_of_Hawai%CA%BBi_-_coffee_plants.JPG",
+    "author": "Rebecca Stanek",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Island_of_Hawai%CA%BBi_-_coffee_plants.JPG",
+    "description": "A coffee plantation - the Island of Hawaiʻi.",
+    "output": "origin-hawaii.webp",
+    "outputDimensions": [
+      1280,
+      960
+    ],
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "india",
+    "title": "Silver_oak_monoculture_shade_coffee_plantation_Chikmagalur.jpg",
+    "author": "Anand Osuri",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Silver_oak_monoculture_shade_coffee_plantation_Chikmagalur.jpg",
+    "description": "Coffee plantation shaded by a monoculture of non-native Silver oak trees in Chikmagalur, Karnataka",
+    "output": "origin-india.webp",
+    "outputDimensions": [
+      1280,
+      1711
+    ],
+    "changes": "Resized and converted to WebP"
+  }
+]
